@@ -1,2 +1,2 @@
 # legion
-gamer legion.
+legion for gamers
